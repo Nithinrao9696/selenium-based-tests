@@ -12,5 +12,5 @@
   "browserTimeout": 1800,
   "timeout": 30000,
   "role": "hub",
-  "host": "localhost"
+  "host": "ap-jenkdx-dev"
 }
